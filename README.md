@@ -1,4 +1,4 @@
-# Pharmaceutical-Sals-Data-Analysis
+# Pharmaceutical-Sales-Data-Analysis
 
 I've analysed this dataset in two verions:
 
