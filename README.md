@@ -1,9 +1,9 @@
 # Pharmaceutical Sales Data Analysis
 
-I've analysed this dataset in two verions:
+I've analysed this dataset in two versions:
 
-1. Abridged sales analysis
-2. Full analysis and sales prediction ARIMA model (currently working on this)
+1. An abridged sales analysis
+2. A full analysis and sales prediction using ARIMA model (currently working on this)
 
 # Description of data heading:
 
