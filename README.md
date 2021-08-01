@@ -1,11 +1,11 @@
-# Pharmaceutical-Sales-Data-Analysis
+# Pharmaceutical Sales Data Analysis
 
 I've analysed this dataset in two verions:
 
 1. Abridged sales analysis
 2. Full analysis and sales prediction ARIMA model (currently working on this)
 
-Description of data heading.
+# Description of data heading:
 
 The dataset is built from the initial dataset consisted of 600000 transactional data collected in 6 years (period 2014-2019), indicating date and time of sale, pharmaceutical drug brand name and sold quantity, exported from Point-of-Sale system in the individual pharmacy. Selected group of drugs from the dataset (57 drugs) is classified to the following Anatomical Therapeutic Chemical (ATC) Classification System categories:
 
